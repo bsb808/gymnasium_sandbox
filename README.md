@@ -6,10 +6,10 @@ This repo contains the support elements to run various examples associated with 
 
 Set up a python virtual environment and install the dependencies: [setup_venv.sh](./setup_venv.sh)
 
-== Examples
-=== Deep Reinforcement Learning 
+== Examples ==
+=== Deep Reinforcement Learning ===
 
-==== Pytorch DRL cart-pole example: 
+==== Pytorch DRL cart-pole example ==== 
 
 Quickstart:
 * Clone the pytorch tutorials repo: [https://github.com/pytorch/tutorials]

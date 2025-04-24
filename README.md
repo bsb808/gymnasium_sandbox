@@ -2,14 +2,15 @@
 
 This repo contains the support elements to run various examples associated with the [Gymnasium](https://gymnasium.farama.org/index.html)
 
-== Setup
+## Setup
 
-Set up a python virtual environment and install the dependencies: [setup_venv.sh](./setup_venv.sh)
+Set up a Python virtual environment and install the dependencies: [setup_venv.sh](./setup_venv.sh)
 
-== Examples ==
-=== Deep Reinforcement Learning ===
+## Examples
 
-==== Pytorch DRL cart-pole example ==== 
+### Deep Reinforcement Learning
+
+#### PyTorch DRL Cart-Pole Example
 
 Quickstart:
 * Clone the pytorch tutorials repo: [https://github.com/pytorch/tutorials]

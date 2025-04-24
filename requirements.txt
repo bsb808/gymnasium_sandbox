@@ -1,5 +1,6 @@
 swig
 gymnasium
 gymnasium[box2d]
-pip3 install gymnasium[classic_control]
-￼
+gymnasium[classic_control]
+numpy==1.26
+torch
